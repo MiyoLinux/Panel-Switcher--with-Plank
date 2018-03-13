@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=MiyoLinux Panel Switcher
+Comment=Panel Switching tool
+Categories=Utility;
+Exec=panelswitcher
+Icon=applications-accessories
